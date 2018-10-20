@@ -9,7 +9,7 @@ In this assignment, I will attempt to do the following tasks:
 * Save a figure to file, and read it from file as well.
 
 ## Please find below links to my assignment solutions
-* [The Rmarkdown File](https://github.com/STAT545-UBC-students/hw03-ecool50/blob/master/HW_03.Rmd)
-* [The Markdown File](https://github.com/STAT545-UBC-students/hw03-ecool50/blob/master/HW_03.md)
-* [The PDF File](https://github.com/STAT545-UBC-students/hw03-ecool50/blob/master/HW_03.pdf)
+* [The Rmarkdown File](https://github.com/STAT545-UBC-students/hw05-ecool50/blob/master/HW_05_Solutions.Rmd)
+* [The Markdown File](https://github.com/STAT545-UBC-students/hw05-ecool50/blob/master/HW_05_Solutions.md)
+* [The PDF File](https://github.com/STAT545-UBC-students/hw05-ecool50/blob/master/HW_05_Solutions.pdf)
 
